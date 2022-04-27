@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-photo/tasty-sushi-rolls-with-tuna-fish-placed-stone-background_114579-90596.jpg?w=2000);
+    background-position-y: bottom;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: sandybrown;
+    padding: 10px;
+}
+
+img {
+    width: 400px;
+}
+
+h3, h4, p, span, a {
+    color: #fff;
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0.534);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 50px;
+    margin: 10px 50px;
+}
+
+#thirdDiv{
+    background: sandybrown;
+    border: 1px solid transparent;
+    height: 600px;
+    padding: 50px;
+    width: 500px;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+.fa-utensil-fork { 
+    color: #fff  !important;
+    font-size: 1rem;
+}
+
+.icon { 
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
