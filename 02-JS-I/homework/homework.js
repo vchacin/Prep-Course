@@ -10,13 +10,13 @@ const nuevoNum = 748;
 const nuevoBool = true;
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = true;
+const nuevaResta = 10 - 5 === 5;
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = true;
+const nuevaMultiplicacion = 10 * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = true;
+const nuevoModulo = 21 % 5 === 1;
 
 
 // En los próximos 22 problemas, deberás completar la función.
